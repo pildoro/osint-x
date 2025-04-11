@@ -36,7 +36,7 @@ $ python osint-X.py
 # All menu
 | All Menu | ✔️ |
 |--------|--------|
-| **Phone Number Information** |✔️ |
+  | **Phone 3337741434 Information** |✔️ |
 | **Track Ip** |✔️ |
 | **Instagram User Information** |✔️ |
 | **About** |✔️ |
